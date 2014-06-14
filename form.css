@@ -87,14 +87,14 @@ background-color:rgba(0,0,0,0.4);
 
 /* Icons ---------------------------------- */
 #name{
-	background-image: url(images/name.svg);
+	background-image: url(images/name.png);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #name:focus{
-	background-image: url(images/name.svg);
+	background-image: url(images/name.png);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   background-position: 11px 8px;
@@ -102,21 +102,21 @@ background-color:rgba(0,0,0,0.4);
 }
 
 #email{
-	background-image: url(images/email.svg);
+	background-image: url(images/email.png);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #email:focus{
-	background-image: url(images/email.svg);
+	background-image: url(images/email.png);
 	background-size: 30px 30px;
   background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #comment{
-	background-image: url(images/comment.svg);
+	background-image: url(images/comment.png);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
