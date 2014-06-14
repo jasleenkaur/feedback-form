@@ -3,7 +3,7 @@ margin:0px;
 padding:0px;
 }
 body{
-background-image:url('blue.jpg');
+background-image:url('images/blue.jpg');
 background-size:cover;
 }
 h1{
@@ -26,7 +26,7 @@ margin-top:30px;
 width:500px;
 height:600px;
 background-color:rgba(0,0,0);  /*The Falback*/
-background-color:rgba(0,0,0,0.3);
+background-color:rgba(0,0,0,0.5);
 -webkit-border-radius:30px;
 -moz-border-radius:30px;
 }
@@ -87,14 +87,14 @@ background-color:rgba(0,0,0,0.3);
 
 /* Icons ---------------------------------- */
 #name{
-	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-image: url(images/name.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #name:focus{
-	background-image: url(http://rexkirby.com/kirbyandson/images/name.svg);
+	background-image: url(images/name.svg);
 	background-size: 30px 30px;
 	background-position: 8px 5px;
   background-position: 11px 8px;
@@ -102,21 +102,21 @@ background-color:rgba(0,0,0,0.3);
 }
 
 #email{
-	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-image: url(images/email.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #email:focus{
-	background-image: url(http://rexkirby.com/kirbyandson/images/email.svg);
+	background-image: url(images/email.svg);
 	background-size: 30px 30px;
   background-position: 11px 8px;
 	background-repeat: no-repeat;
 }
 
 #comment{
-	background-image: url(http://rexkirby.com/kirbyandson/images/comment.svg);
+	background-image: url(images/comment.svg);
 	background-size: 30px 30px;
 	background-position: 11px 8px;
 	background-repeat: no-repeat;
@@ -138,7 +138,7 @@ input:focus, textarea:focus {
 	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
 	float:left;
 	width: 40%;
-	margin-left:25%;
+	margin-left:30%;
 	border: #01DF01 solid 4px;
 	-webkit-border-radius:50px;
 	-moz-border-radius:50px;
@@ -151,7 +151,7 @@ input:focus, textarea:focus {
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
 	transition: all 0.3s;
-    margin-top:10px;
+    margin-top:20px;
     font-weight:700;
 }
 
